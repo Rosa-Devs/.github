@@ -9,8 +9,8 @@
 </div>
 
 ## Current working:
-1. (Database)[https://github.com/Rosa-Devs/Database] - Database is core of storage in App.
-2. (Rosa-Desktop)[https://github.com/Rosa-Devs/Rosa-Desktop] - This is desktop cli of Rosa App.
+1. [Database](https://github.com/Rosa-Devs/Database) - is core of storage in App.
+2. [Rosa-Desktop](https://github.com/Rosa-Devs/Rosa-Desktop) - This is desktop cli of Rosa App.
 
 
 ## The project was inspired by the architectural disadvantages of the most popular messengers:
