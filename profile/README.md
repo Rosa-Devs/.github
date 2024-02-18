@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Rosa-Devs/Rosa-Desktop">
-    <img src="../images/Logo.svg" alt="Logo" width="200" height="200">
+    <img src="/images/Logo.svg" alt="Logo" width="200" height="200">
   </a>
 
 # Rosa
@@ -15,7 +15,7 @@
 <br />
     <div align="center">
         <a href="https://github.com/Mihalic2040/Rosa-Desktop">
-            <img src="../images/client-server.png" alt="Logo">
+            <img src="/images/client-server.png" alt="Logo">
         </a>
     </div>
 
@@ -23,7 +23,7 @@
 <br />
     <div align="center">
         <a href="https://github.com/Rosa-Devs/Router">
-            <img src="images/code.png" alt="Logo">
+            <img src="/images/code.png" alt="Logo">
         </a>
     </div>
 
