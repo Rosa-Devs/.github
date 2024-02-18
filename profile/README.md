@@ -8,6 +8,10 @@
 # Rosa
 </div>
 
+## Current working:
+1. (Database)[https://github.com/Rosa-Devs/Database] - Database is core of storage in App.
+2. (Rosa-Desktop)[https://github.com/Rosa-Devs/Rosa-Desktop] - This is desktop cli of Rosa App.
+
 
 ## The project was inspired by the architectural disadvantages of the most popular messengers:
 
@@ -27,11 +31,10 @@
         </a>
     </div>
 
-## In my opinion, this program can solve these problems and provide people with the most reliable messaging service.
+In my opinion, this program can solve these problems and provide people with the most reliable messaging service.
 
-# What is this?
-Router this is base of CLI. He provide a local http api to communicate with P2P network.
-This will allow me to write a client to a dear person who knows how to interact with the JSON HTTP API.
+# What we are doing?
+We are creating a platform for decentralized messaging that will ensure the safety of its users and the speed of the network.
 
 
 <!-- CONTRIBUTING -->
